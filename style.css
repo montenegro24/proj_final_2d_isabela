@@ -1,0 +1,17 @@
+body {background-color: rgb(90, 181, 241);
+}
+h1 {text-align: center;
+}
+h3 {text-align: center;
+}
+h3 {text-transform:inherit;
+}
+
+#pastor {width: 20%;
+}
+#husky {width: 20%;
+}
+#golden {width: 20%;
+}
+#beagle {width: 15%;
+}
