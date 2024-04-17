@@ -18,14 +18,15 @@ h3 {border-color: rgb(9, 9, 138);
     border-width: 5px;
     border-style: solid;
 }
- #pastor {border-color:rgb(9, 9, 138);
+#pastor {border-color:rgb(9, 9, 138);
           border-width: 3px;
 }
- #husky {border-color:rgb(9, 9, 138);
+#husky {border-color:rgb(9, 9, 138);
     border-width: 3px;
 }
 #golden {border-color:rgb(9, 9, 138);
     border-width: 3px;
 }
 #beagle {border-color:rgb(9, 9, 138);
-    border-width: 3px;}
+    border-width: 3px;
+}
