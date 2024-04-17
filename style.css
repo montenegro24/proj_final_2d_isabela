@@ -20,13 +20,17 @@ h3 {border-color: rgb(9, 9, 138);
 }
 #pastor {border-color:rgb(9, 9, 138);
           border-width: 3px;
+          border-style: solid;
 }
 #husky {border-color:rgb(9, 9, 138);
     border-width: 3px;
+    border-style: solid;
 }
 #golden {border-color:rgb(9, 9, 138);
     border-width: 3px;
+    border-style: solid;
 }
 #beagle {border-color:rgb(9, 9, 138);
     border-width: 3px;
+    border-style: solid;
 }
