@@ -8,13 +8,13 @@ h3 {text-align: center;
 }
 h3 {text-transform:inherit;
 }
-#pastor {width: 20%;
+#pastor {width: 25%;
 }
-#husky {width: 20%;
+#husky {width: 25%;
 }
-#golden {width: 20%;
+#golden {width: 25%;
 }
-#beagle {width: 15%;
+#beagle {width: 20%;
 }
 h3 {border-color: rgb(9, 9, 138);
     border-width: 5px;
@@ -34,9 +34,5 @@ h3 {border-color: rgb(9, 9, 138);
 }
 #beagle {border-color:rgb(9, 9, 138);
     border-width: 3px;
-    border-style: solid;
-}
-h3 {border-color:rgb(9, 9, 138);
-    border-width: 4px;
     border-style: solid;
 }
